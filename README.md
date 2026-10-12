@@ -34,6 +34,11 @@
 - Team Repository: https://github.com/TeamBreadBread/breadbread
 - Service: https://breadbread.io
 
+**Project Presentations**
+- 프로젝트의 기획 배경, 주요 기능, AI 아키텍처 및 운영 성과를 확인할 수 있습니다.
+
+📄 [빵빵 프로젝트 발표자료 보기](./BreadBread_Presentation.pdf)
+
 #### My Responsibilities
 
 **Frontend Development**
